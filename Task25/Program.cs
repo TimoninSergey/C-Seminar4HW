@@ -1,4 +1,6 @@
-﻿int Degreeing (int A, int B)
+﻿//Задача 25: Напишите цикл, который принимает на вход два числа (A и B) и возводит число A в натуральную степень B.
+
+int Degreeing (int A, int B)
 {
 	int count = 1;
 	int result = A;
